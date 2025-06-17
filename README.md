@@ -1,6 +1,6 @@
 # Prerequisites
-#
-- JDK 17 
+#####
+- JDK 23 - this is in proton
 - Maven 3.9 
 - MySQL 8
 
